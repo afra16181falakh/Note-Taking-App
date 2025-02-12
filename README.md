@@ -1,8 +1,8 @@
-Note-Taking App
+## Note-Taking App
 
 Welcome to the Note-Taking App! This full-stack web application is designed to help users efficiently create, manage, and organize their notes with ease. Featuring a clean and intuitive user interface, this app ensures that your notes are always accessible and easy to find.
 
- Features
+ ## Features
 	•	 Create, Edit, and Delete Notes – Manage your notes effortlessly.
 	•	 Search & Filter – Quickly find notes using keywords.
 	•	 Organized Categories – Keep your notes sorted into different categories.
@@ -10,7 +10,7 @@ Welcome to the Note-Taking App! This full-stack web application is designed to h
 	•	 Secure User Authentication – Sign up and log in securely to access your notes.
 	•	 Cloud Sync – Access your notes from any device.
 
- Tech Stack
+ ## Tech Stack
 	•	Frontend: React, Tailwind CSS
 	•	Backend: Node.js, Express.js
 	•	Database: MongoDB
@@ -18,7 +18,7 @@ Welcome to the Note-Taking App! This full-stack web application is designed to h
 	•	Deployment: Vercel / Netlify (Frontend), Heroku / Render (Backend)
 
 
- Usage
+ ## Usage
 	1.	Sign up or log in to create notes.
 	2.	Organize your notes using categories and tags.
 	3.	Use the search bar to find notes quickly.
