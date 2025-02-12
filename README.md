@@ -17,38 +17,6 @@ Welcome to the Note-Taking App! This full-stack web application is designed to h
 	•	Authentication: JWT
 	•	Deployment: Vercel / Netlify (Frontend), Heroku / Render (Backend)
 
- Installation
-
-Clone the Repository
-
-git clone https://github.com/your-username/note-taking-app.git  
-cd note-taking-app  
-
-Install Dependencies
-
-Backend
-
-cd server  
-npm install  
-
-Frontend
-
-cd client  
-npm install  
-
-Run the Application
-
-Backend
-
-cd server  
-npm start  
-
-Frontend
-
-cd client  
-npm start  
-
-
 
  Usage
 	1.	Sign up or log in to create notes.
